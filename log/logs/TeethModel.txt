@@ -98,3 +98,239 @@
 2021-03-10 15:59:43,423 - Model - INFO - Epoch 5 test loss: 1.446709
 2021-03-10 15:59:43,423 - Model - INFO - Epoch 6 (6/200):
 2021-03-10 15:59:43,424 - Model - INFO - Learning rate:0.001000
+2021-03-10 16:05:24,327 - Model - INFO - Train loss is: 0.94770
+2021-03-10 16:06:40,967 - Model - INFO - Epoch 6 test loss: 1.412960
+2021-03-10 16:06:40,968 - Model - INFO - Epoch 7 (7/200):
+2021-03-10 16:06:40,968 - Model - INFO - Learning rate:0.001000
+2021-03-10 16:12:23,946 - Model - INFO - Train loss is: 0.91712
+2021-03-10 16:13:39,713 - Model - INFO - Epoch 7 test loss: 1.487020
+2021-03-10 16:13:39,714 - Model - INFO - Epoch 8 (8/200):
+2021-03-10 16:13:39,714 - Model - INFO - Learning rate:0.001000
+2021-03-10 16:19:08,497 - Model - INFO - Train loss is: 0.89028
+2021-03-10 16:20:16,004 - Model - INFO - Epoch 8 test loss: 1.509123
+2021-03-10 16:20:16,005 - Model - INFO - Epoch 9 (9/200):
+2021-03-10 16:20:16,005 - Model - INFO - Learning rate:0.001000
+2021-03-10 16:24:36,695 - Model - INFO - Train loss is: 0.87170
+2021-03-10 16:25:55,240 - Model - INFO - Epoch 9 test loss: 1.473994
+2021-03-10 16:25:55,240 - Model - INFO - Epoch 10 (10/200):
+2021-03-10 16:25:55,240 - Model - INFO - Learning rate:0.001000
+2021-03-10 16:32:25,369 - Model - INFO - Train loss is: 0.85525
+2021-03-10 16:33:48,090 - Model - INFO - Epoch 10 test loss: 1.453647
+2021-03-10 16:33:48,092 - Model - INFO - Epoch 11 (11/200):
+2021-03-10 16:33:48,092 - Model - INFO - Learning rate:0.001000
+2021-03-10 16:39:39,914 - Model - INFO - Train loss is: 0.84082
+2021-03-10 16:40:48,422 - Model - INFO - Epoch 11 test loss: 1.472769
+2021-03-10 16:40:48,422 - Model - INFO - Epoch 12 (12/200):
+2021-03-10 16:40:48,423 - Model - INFO - Learning rate:0.001000
+2021-03-10 16:46:08,013 - Model - INFO - Train loss is: 0.82633
+2021-03-10 16:47:22,300 - Model - INFO - Epoch 12 test loss: 1.412196
+2021-03-10 16:47:22,301 - Model - INFO - Epoch 13 (13/200):
+2021-03-10 16:47:22,301 - Model - INFO - Learning rate:0.001000
+2021-03-10 16:53:00,590 - Model - INFO - Train loss is: 0.81547
+2021-03-10 16:54:05,184 - Model - INFO - Epoch 13 test loss: 1.411109
+2021-03-10 16:54:05,185 - Model - INFO - Epoch 14 (14/200):
+2021-03-10 16:54:05,186 - Model - INFO - Learning rate:0.001000
+2021-03-10 16:59:21,958 - Model - INFO - Train loss is: 0.80658
+2021-03-10 17:00:27,742 - Model - INFO - Epoch 14 test loss: 1.471480
+2021-03-10 17:00:27,742 - Model - INFO - Epoch 15 (15/200):
+2021-03-10 17:00:27,742 - Model - INFO - Learning rate:0.001000
+2021-03-10 17:05:46,702 - Model - INFO - Train loss is: 0.79449
+2021-03-10 17:06:51,223 - Model - INFO - Epoch 15 test loss: 1.542711
+2021-03-10 17:06:51,226 - Model - INFO - Epoch 16 (16/200):
+2021-03-10 17:06:51,227 - Model - INFO - Learning rate:0.001000
+2021-03-10 17:12:09,491 - Model - INFO - Train loss is: 0.79214
+2021-03-10 17:13:13,975 - Model - INFO - Epoch 16 test loss: 2.016085
+2021-03-10 17:13:13,976 - Model - INFO - Epoch 17 (17/200):
+2021-03-10 17:13:13,976 - Model - INFO - Learning rate:0.001000
+2021-03-10 17:18:35,023 - Model - INFO - Train loss is: 0.78321
+2021-03-10 17:19:39,425 - Model - INFO - Epoch 17 test loss: 1.471769
+2021-03-10 17:19:39,425 - Model - INFO - Epoch 18 (18/200):
+2021-03-10 17:19:39,425 - Model - INFO - Learning rate:0.001000
+2021-03-10 17:24:58,612 - Model - INFO - Train loss is: 0.76784
+2021-03-10 17:26:02,784 - Model - INFO - Epoch 18 test loss: 1.443716
+2021-03-10 17:26:02,784 - Model - INFO - Epoch 19 (19/200):
+2021-03-10 17:26:02,784 - Model - INFO - Learning rate:0.001000
+2021-03-10 17:31:21,004 - Model - INFO - Train loss is: 0.76509
+2021-03-10 17:32:25,370 - Model - INFO - Epoch 19 test loss: 1.411506
+2021-03-10 17:32:25,371 - Model - INFO - Epoch 20 (20/200):
+2021-03-10 17:32:25,371 - Model - INFO - Learning rate:0.001000
+2021-03-10 17:37:44,463 - Model - INFO - Train loss is: 0.75604
+2021-03-10 17:38:48,852 - Model - INFO - Epoch 20 test loss: 1.432724
+2021-03-10 17:38:48,853 - Model - INFO - Epoch 21 (21/200):
+2021-03-10 17:38:48,853 - Model - INFO - Learning rate:0.000500
+2021-03-10 17:44:13,582 - Model - INFO - Train loss is: 0.73680
+2021-03-10 17:45:18,368 - Model - INFO - Epoch 21 test loss: 1.428145
+2021-03-10 17:45:18,368 - Model - INFO - Epoch 22 (22/200):
+2021-03-10 17:45:18,372 - Model - INFO - Learning rate:0.000500
+2021-03-10 17:50:40,312 - Model - INFO - Train loss is: 0.73028
+2021-03-10 17:51:45,210 - Model - INFO - Epoch 22 test loss: 1.415852
+2021-03-10 17:51:45,216 - Model - INFO - Epoch 23 (23/200):
+2021-03-10 17:51:45,217 - Model - INFO - Learning rate:0.000500
+2021-03-10 17:57:08,580 - Model - INFO - Train loss is: 0.72520
+2021-03-10 17:58:13,455 - Model - INFO - Epoch 23 test loss: 1.434108
+2021-03-10 17:58:13,461 - Model - INFO - Epoch 24 (24/200):
+2021-03-10 17:58:13,461 - Model - INFO - Learning rate:0.000500
+2021-03-10 18:03:36,993 - Model - INFO - Train loss is: 0.72182
+2021-03-10 18:04:42,141 - Model - INFO - Epoch 24 test loss: 1.488760
+2021-03-10 18:04:42,142 - Model - INFO - Epoch 25 (25/200):
+2021-03-10 18:04:42,148 - Model - INFO - Learning rate:0.000500
+2021-03-10 18:10:05,928 - Model - INFO - Train loss is: 0.71688
+2021-03-10 18:11:11,122 - Model - INFO - Epoch 25 test loss: 1.457399
+2021-03-10 18:11:11,124 - Model - INFO - Epoch 26 (26/200):
+2021-03-10 18:11:11,125 - Model - INFO - Learning rate:0.000500
+2021-03-10 18:16:34,565 - Model - INFO - Train loss is: 0.71286
+2021-03-10 18:17:39,777 - Model - INFO - Epoch 26 test loss: 1.466753
+2021-03-10 18:17:39,784 - Model - INFO - Epoch 27 (27/200):
+2021-03-10 18:17:39,784 - Model - INFO - Learning rate:0.000500
+2021-03-10 18:23:03,585 - Model - INFO - Train loss is: 0.70890
+2021-03-10 18:24:09,263 - Model - INFO - Epoch 27 test loss: 1.461834
+2021-03-10 18:24:09,265 - Model - INFO - Epoch 28 (28/200):
+2021-03-10 18:24:09,271 - Model - INFO - Learning rate:0.000500
+2021-03-10 18:29:36,729 - Model - INFO - Train loss is: 0.70845
+2021-03-10 18:30:42,998 - Model - INFO - Epoch 28 test loss: 1.471987
+2021-03-10 18:30:43,004 - Model - INFO - Epoch 29 (29/200):
+2021-03-10 18:30:43,005 - Model - INFO - Learning rate:0.000500
+2021-03-10 18:36:08,349 - Model - INFO - Train loss is: 0.70215
+2021-03-10 18:37:13,693 - Model - INFO - Epoch 29 test loss: 1.459679
+2021-03-10 18:37:13,693 - Model - INFO - Epoch 30 (30/200):
+2021-03-10 18:37:13,701 - Model - INFO - Learning rate:0.000500
+2021-03-10 18:42:38,600 - Model - INFO - Train loss is: 0.69847
+2021-03-10 18:43:43,635 - Model - INFO - Epoch 30 test loss: 1.410903
+2021-03-10 18:43:43,636 - Model - INFO - Epoch 31 (31/200):
+2021-03-10 18:43:43,643 - Model - INFO - Learning rate:0.000500
+2021-03-10 18:49:08,962 - Model - INFO - Train loss is: 0.69591
+2021-03-10 18:50:14,220 - Model - INFO - Epoch 31 test loss: 1.404560
+2021-03-10 18:50:14,223 - Model - INFO - Epoch 32 (32/200):
+2021-03-10 18:50:14,223 - Model - INFO - Learning rate:0.000500
+2021-03-10 18:55:39,979 - Model - INFO - Train loss is: 0.68904
+2021-03-10 18:56:44,525 - Model - INFO - Epoch 32 test loss: 1.454785
+2021-03-10 18:56:44,532 - Model - INFO - Epoch 33 (33/200):
+2021-03-10 18:56:44,533 - Model - INFO - Learning rate:0.000500
+2021-03-10 19:02:12,138 - Model - INFO - Train loss is: 0.68527
+2021-03-10 19:03:23,858 - Model - INFO - Epoch 33 test loss: 1.441078
+2021-03-10 19:03:23,858 - Model - INFO - Epoch 34 (34/200):
+2021-03-10 19:03:23,859 - Model - INFO - Learning rate:0.000500
+2021-03-10 19:08:22,057 - Model - INFO - Train loss is: 0.68121
+2021-03-10 19:09:18,298 - Model - INFO - Epoch 34 test loss: 1.396574
+2021-03-10 19:09:18,298 - Model - INFO - Epoch 35 (35/200):
+2021-03-10 19:09:18,298 - Model - INFO - Learning rate:0.000500
+2021-03-10 19:13:23,536 - Model - INFO - Train loss is: 0.68107
+2021-03-10 19:14:12,982 - Model - INFO - Epoch 35 test loss: 1.439033
+2021-03-10 19:14:12,982 - Model - INFO - Epoch 36 (36/200):
+2021-03-10 19:14:12,982 - Model - INFO - Learning rate:0.000500
+2021-03-10 19:17:58,901 - Model - INFO - Train loss is: 0.67487
+2021-03-10 19:18:46,371 - Model - INFO - Epoch 36 test loss: 1.432369
+2021-03-10 19:18:46,372 - Model - INFO - Epoch 37 (37/200):
+2021-03-10 19:18:46,372 - Model - INFO - Learning rate:0.000500
+2021-03-10 19:22:24,729 - Model - INFO - Train loss is: 0.67371
+2021-03-10 19:23:11,685 - Model - INFO - Epoch 37 test loss: 1.430993
+2021-03-10 19:23:11,686 - Model - INFO - Epoch 38 (38/200):
+2021-03-10 19:23:11,687 - Model - INFO - Learning rate:0.000500
+2021-03-10 19:26:57,356 - Model - INFO - Train loss is: 0.66892
+2021-03-10 19:27:44,098 - Model - INFO - Epoch 38 test loss: 1.457219
+2021-03-10 19:27:44,099 - Model - INFO - Epoch 39 (39/200):
+2021-03-10 19:27:44,099 - Model - INFO - Learning rate:0.000500
+2021-03-10 19:31:23,809 - Model - INFO - Train loss is: 0.66495
+2021-03-10 19:32:10,975 - Model - INFO - Epoch 39 test loss: 1.439952
+2021-03-10 19:32:10,983 - Model - INFO - Epoch 40 (40/200):
+2021-03-10 19:32:10,984 - Model - INFO - Learning rate:0.000500
+2021-03-10 19:35:49,603 - Model - INFO - Train loss is: 0.66118
+2021-03-10 19:36:36,224 - Model - INFO - Epoch 40 test loss: 1.419232
+2021-03-10 19:36:36,231 - Model - INFO - Epoch 41 (41/200):
+2021-03-10 19:36:36,232 - Model - INFO - Learning rate:0.000250
+2021-03-10 19:40:16,985 - Model - INFO - Train loss is: 0.64798
+2021-03-10 19:41:04,418 - Model - INFO - Epoch 41 test loss: 1.454022
+2021-03-10 19:41:04,425 - Model - INFO - Epoch 42 (42/200):
+2021-03-10 19:41:04,425 - Model - INFO - Learning rate:0.000250
+2021-03-10 19:44:47,153 - Model - INFO - Train loss is: 0.64314
+2021-03-10 19:45:33,641 - Model - INFO - Epoch 42 test loss: 1.437028
+2021-03-10 19:45:33,641 - Model - INFO - Epoch 43 (43/200):
+2021-03-10 19:45:33,642 - Model - INFO - Learning rate:0.000250
+2021-03-10 19:49:10,662 - Model - INFO - Train loss is: 0.63956
+2021-03-10 19:49:57,282 - Model - INFO - Epoch 43 test loss: 1.439475
+2021-03-10 19:49:57,284 - Model - INFO - Epoch 44 (44/200):
+2021-03-10 19:49:57,284 - Model - INFO - Learning rate:0.000250
+2021-03-10 19:53:34,525 - Model - INFO - Train loss is: 0.63895
+2021-03-10 19:54:20,985 - Model - INFO - Epoch 44 test loss: 1.405203
+2021-03-10 19:54:20,991 - Model - INFO - Epoch 45 (45/200):
+2021-03-10 19:54:20,992 - Model - INFO - Learning rate:0.000250
+2021-03-10 19:57:58,566 - Model - INFO - Train loss is: 0.63650
+2021-03-10 19:58:45,104 - Model - INFO - Epoch 45 test loss: 1.422784
+2021-03-10 19:58:45,110 - Model - INFO - Epoch 46 (46/200):
+2021-03-10 19:58:45,111 - Model - INFO - Learning rate:0.000250
+2021-03-10 20:02:21,845 - Model - INFO - Train loss is: 0.63042
+2021-03-10 20:03:08,428 - Model - INFO - Epoch 46 test loss: 1.409060
+2021-03-10 20:03:08,434 - Model - INFO - Epoch 47 (47/200):
+2021-03-10 20:03:08,436 - Model - INFO - Learning rate:0.000250
+2021-03-10 20:06:46,763 - Model - INFO - Train loss is: 0.63084
+2021-03-10 20:07:33,593 - Model - INFO - Epoch 47 test loss: 1.436901
+2021-03-10 20:07:33,596 - Model - INFO - Epoch 48 (48/200):
+2021-03-10 20:07:33,596 - Model - INFO - Learning rate:0.000250
+2021-03-10 20:11:11,578 - Model - INFO - Train loss is: 0.63089
+2021-03-10 20:11:58,415 - Model - INFO - Epoch 48 test loss: 1.444566
+2021-03-10 20:11:58,422 - Model - INFO - Epoch 49 (49/200):
+2021-03-10 20:11:58,423 - Model - INFO - Learning rate:0.000250
+2021-03-10 20:15:35,211 - Model - INFO - Train loss is: 0.62488
+2021-03-10 20:16:21,666 - Model - INFO - Epoch 49 test loss: 1.415282
+2021-03-10 20:16:21,672 - Model - INFO - Epoch 50 (50/200):
+2021-03-10 20:16:21,673 - Model - INFO - Learning rate:0.000250
+2021-03-10 20:20:01,492 - Model - INFO - Train loss is: 0.62693
+2021-03-10 20:20:48,514 - Model - INFO - Epoch 50 test loss: 1.401974
+2021-03-10 20:20:48,514 - Model - INFO - Epoch 51 (51/200):
+2021-03-10 20:20:48,515 - Model - INFO - Learning rate:0.000250
+2021-03-10 20:24:27,601 - Model - INFO - Train loss is: 0.62156
+2021-03-10 20:25:14,637 - Model - INFO - Epoch 51 test loss: 1.421620
+2021-03-10 20:25:14,638 - Model - INFO - Epoch 52 (52/200):
+2021-03-10 20:25:14,638 - Model - INFO - Learning rate:0.000250
+2021-03-10 20:28:55,303 - Model - INFO - Train loss is: 0.61957
+2021-03-10 20:29:42,328 - Model - INFO - Epoch 52 test loss: 1.410003
+2021-03-10 20:29:42,329 - Model - INFO - Epoch 53 (53/200):
+2021-03-10 20:29:42,329 - Model - INFO - Learning rate:0.000250
+2021-03-10 20:33:23,539 - Model - INFO - Train loss is: 0.61895
+2021-03-10 20:34:11,256 - Model - INFO - Epoch 53 test loss: 1.395432
+2021-03-10 20:34:11,256 - Model - INFO - Epoch 54 (54/200):
+2021-03-10 20:34:11,257 - Model - INFO - Learning rate:0.000250
+2021-03-10 20:37:54,647 - Model - INFO - Train loss is: 0.61573
+2021-03-10 20:38:42,713 - Model - INFO - Epoch 54 test loss: 1.401038
+2021-03-10 20:38:42,714 - Model - INFO - Epoch 55 (55/200):
+2021-03-10 20:38:42,714 - Model - INFO - Learning rate:0.000250
+2021-03-10 20:42:25,195 - Model - INFO - Train loss is: 0.61556
+2021-03-10 20:43:12,180 - Model - INFO - Epoch 55 test loss: 1.423627
+2021-03-10 20:43:12,180 - Model - INFO - Epoch 56 (56/200):
+2021-03-10 20:43:12,180 - Model - INFO - Learning rate:0.000250
+2021-03-10 20:46:51,011 - Model - INFO - Train loss is: 0.61100
+2021-03-10 20:47:38,084 - Model - INFO - Epoch 56 test loss: 1.406505
+2021-03-10 20:47:38,084 - Model - INFO - Epoch 57 (57/200):
+2021-03-10 20:47:38,085 - Model - INFO - Learning rate:0.000250
+2021-03-10 20:51:16,878 - Model - INFO - Train loss is: 0.60905
+2021-03-10 20:52:03,878 - Model - INFO - Epoch 57 test loss: 1.427699
+2021-03-10 20:52:03,878 - Model - INFO - Epoch 58 (58/200):
+2021-03-10 20:52:03,878 - Model - INFO - Learning rate:0.000250
+2021-03-10 20:55:42,373 - Model - INFO - Train loss is: 0.60756
+2021-03-10 20:56:29,955 - Model - INFO - Epoch 58 test loss: 1.408727
+2021-03-10 20:56:29,955 - Model - INFO - Epoch 59 (59/200):
+2021-03-10 20:56:29,956 - Model - INFO - Learning rate:0.000250
+2021-03-10 21:00:06,906 - Model - INFO - Train loss is: 0.60841
+2021-03-10 21:00:53,122 - Model - INFO - Epoch 59 test loss: 1.406938
+2021-03-10 21:00:53,122 - Model - INFO - Epoch 60 (60/200):
+2021-03-10 21:00:53,123 - Model - INFO - Learning rate:0.000250
+2021-03-10 21:04:31,116 - Model - INFO - Train loss is: 0.60389
+2021-03-10 21:05:17,504 - Model - INFO - Epoch 60 test loss: 1.444510
+2021-03-10 21:05:17,504 - Model - INFO - Epoch 61 (61/200):
+2021-03-10 21:05:17,505 - Model - INFO - Learning rate:0.000125
+2021-03-10 21:08:54,611 - Model - INFO - Train loss is: 0.59437
+2021-03-10 21:09:41,806 - Model - INFO - Epoch 61 test loss: 1.394874
+2021-03-10 21:09:41,806 - Model - INFO - Epoch 62 (62/200):
+2021-03-10 21:09:41,807 - Model - INFO - Learning rate:0.000125
+2021-03-10 21:13:21,688 - Model - INFO - Train loss is: 0.58956
+2021-03-10 21:14:08,827 - Model - INFO - Epoch 62 test loss: 1.385471
+2021-03-10 21:14:08,827 - Model - INFO - Epoch 63 (63/200):
+2021-03-10 21:14:08,827 - Model - INFO - Learning rate:0.000125
+2021-03-10 21:17:46,580 - Model - INFO - Train loss is: 0.58936
+2021-03-10 21:18:33,362 - Model - INFO - Epoch 63 test loss: 1.421349
+2021-03-10 21:18:33,362 - Model - INFO - Epoch 64 (64/200):
+2021-03-10 21:18:33,362 - Model - INFO - Learning rate:0.000125
+2021-03-10 21:22:14,792 - Model - INFO - Train loss is: 0.58673
+2021-03-10 21:23:02,927 - Model - INFO - Epoch 64 test loss: 1.393338
+2021-03-10 21:23:02,928 - Model - INFO - Epoch 65 (65/200):
+2021-03-10 21:23:02,928 - Model - INFO - Learning rate:0.000125
