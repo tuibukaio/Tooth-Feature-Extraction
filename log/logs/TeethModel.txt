@@ -1,0 +1,72 @@
+2021-03-10 14:43:20,406 - Model - INFO - PARAMETER ...
+2021-03-10 14:43:20,407 - Model - INFO - Namespace(batch_size=24, decay_rate=0.0001, epoch=200, gpu='0', learning_rate=0.001, lr_decay=0.5, model='TeethModel', optimizer='Adam', step_size=20)
+2021-03-10 14:43:20,416 - Model - INFO - The number of training data is: 672
+2021-03-10 14:43:20,416 - Model - INFO - The number of test data is: 175
+2021-03-10 14:43:22,405 - Model - INFO - No existing model, starting training from scratch...
+2021-03-10 14:43:22,414 - Model - INFO - Epoch 1 (1/200):
+2021-03-10 14:43:22,414 - Model - INFO - Learning rate:0.001000
+2021-03-10 14:44:03,761 - Model - INFO - PARAMETER ...
+2021-03-10 14:44:03,763 - Model - INFO - Namespace(batch_size=12, decay_rate=0.0001, epoch=200, gpu='0', learning_rate=0.001, lr_decay=0.5, model='TeethModel', optimizer='Adam', step_size=20)
+2021-03-10 14:44:04,342 - Model - INFO - The number of training data is: 672
+2021-03-10 14:44:04,344 - Model - INFO - The number of test data is: 175
+2021-03-10 14:44:05,340 - Model - INFO - No existing model, starting training from scratch...
+2021-03-10 14:44:05,346 - Model - INFO - Epoch 1 (1/200):
+2021-03-10 14:44:05,347 - Model - INFO - Learning rate:0.001000
+2021-03-10 14:44:38,250 - Model - INFO - PARAMETER ...
+2021-03-10 14:44:38,251 - Model - INFO - Namespace(batch_size=11, decay_rate=0.0001, epoch=200, gpu='0', learning_rate=0.001, lr_decay=0.5, model='TeethModel', optimizer='Adam', step_size=20)
+2021-03-10 14:44:38,253 - Model - INFO - The number of training data is: 672
+2021-03-10 14:44:38,253 - Model - INFO - The number of test data is: 175
+2021-03-10 14:44:39,250 - Model - INFO - No existing model, starting training from scratch...
+2021-03-10 14:44:39,256 - Model - INFO - Epoch 1 (1/200):
+2021-03-10 14:44:39,257 - Model - INFO - Learning rate:0.001000
+2021-03-10 14:45:24,231 - Model - INFO - PARAMETER ...
+2021-03-10 14:45:24,232 - Model - INFO - Namespace(batch_size=10, decay_rate=0.0001, epoch=200, gpu='0', learning_rate=0.001, lr_decay=0.5, model='TeethModel', optimizer='Adam', step_size=20)
+2021-03-10 14:45:24,236 - Model - INFO - The number of training data is: 672
+2021-03-10 14:45:24,236 - Model - INFO - The number of test data is: 175
+2021-03-10 14:45:25,204 - Model - INFO - No existing model, starting training from scratch...
+2021-03-10 14:45:25,211 - Model - INFO - Epoch 1 (1/200):
+2021-03-10 14:45:25,211 - Model - INFO - Learning rate:0.001000
+2021-03-10 14:45:59,950 - Model - INFO - PARAMETER ...
+2021-03-10 14:45:59,951 - Model - INFO - Namespace(batch_size=8, decay_rate=0.0001, epoch=200, gpu='0', learning_rate=0.001, lr_decay=0.5, model='TeethModel', optimizer='Adam', step_size=20)
+2021-03-10 14:45:59,955 - Model - INFO - The number of training data is: 672
+2021-03-10 14:45:59,955 - Model - INFO - The number of test data is: 175
+2021-03-10 14:46:00,955 - Model - INFO - No existing model, starting training from scratch...
+2021-03-10 14:46:00,961 - Model - INFO - Epoch 1 (1/200):
+2021-03-10 14:46:00,961 - Model - INFO - Learning rate:0.001000
+2021-03-10 14:56:25,573 - Model - INFO - PARAMETER ...
+2021-03-10 14:56:25,573 - Model - INFO - Namespace(batch_size=8, decay_rate=0.0001, epoch=200, gpu='0', learning_rate=0.001, lr_decay=0.5, model='TeethModel', optimizer='Adam', step_size=20)
+2021-03-10 14:56:25,580 - Model - INFO - The number of training data is: 672
+2021-03-10 14:56:25,580 - Model - INFO - The number of test data is: 175
+2021-03-10 14:56:26,584 - Model - INFO - No existing model, starting training from scratch...
+2021-03-10 14:56:26,590 - Model - INFO - Epoch 1 (1/200):
+2021-03-10 14:56:26,596 - Model - INFO - Learning rate:0.001000
+2021-03-10 14:59:29,470 - Model - INFO - PARAMETER ...
+2021-03-10 14:59:29,471 - Model - INFO - Namespace(batch_size=12, decay_rate=0.0001, epoch=200, gpu='0', learning_rate=0.001, lr_decay=0.5, model='TeethModel', optimizer='Adam', step_size=20)
+2021-03-10 14:59:29,478 - Model - INFO - The number of training data is: 672
+2021-03-10 14:59:29,478 - Model - INFO - The number of test data is: 175
+2021-03-10 14:59:30,479 - Model - INFO - No existing model, starting training from scratch...
+2021-03-10 14:59:30,486 - Model - INFO - Epoch 1 (1/200):
+2021-03-10 14:59:30,486 - Model - INFO - Learning rate:0.001000
+2021-03-10 15:00:00,205 - Model - INFO - PARAMETER ...
+2021-03-10 15:00:00,206 - Model - INFO - Namespace(batch_size=8, decay_rate=0.0001, epoch=200, gpu='0', learning_rate=0.001, lr_decay=0.5, model='TeethModel', optimizer='Adam', step_size=20)
+2021-03-10 15:00:00,209 - Model - INFO - The number of training data is: 672
+2021-03-10 15:00:00,209 - Model - INFO - The number of test data is: 175
+2021-03-10 15:00:01,203 - Model - INFO - No existing model, starting training from scratch...
+2021-03-10 15:00:01,210 - Model - INFO - Epoch 1 (1/200):
+2021-03-10 15:00:01,210 - Model - INFO - Learning rate:0.001000
+2021-03-10 15:03:48,415 - Model - INFO - Train loss is: 2.90676
+2021-03-10 15:10:45,568 - Model - INFO - PARAMETER ...
+2021-03-10 15:10:45,569 - Model - INFO - Namespace(batch_size=8, decay_rate=0.0001, epoch=200, gpu='0', learning_rate=0.001, lr_decay=0.5, model='TeethModel', optimizer='Adam', step_size=20)
+2021-03-10 15:10:45,576 - Model - INFO - The number of training data is: 672
+2021-03-10 15:10:45,576 - Model - INFO - The number of test data is: 175
+2021-03-10 15:10:46,579 - Model - INFO - No existing model, starting training from scratch...
+2021-03-10 15:10:46,585 - Model - INFO - Epoch 1 (1/200):
+2021-03-10 15:10:46,586 - Model - INFO - Learning rate:0.001000
+2021-03-10 15:14:42,492 - Model - INFO - Train loss is: 3.06363
+2021-03-10 15:27:04,494 - Model - INFO - PARAMETER ...
+2021-03-10 15:27:04,496 - Model - INFO - Namespace(batch_size=8, decay_rate=0.0001, epoch=200, gpu='0', learning_rate=0.001, lr_decay=0.5, model='TeethModel', optimizer='Adam', step_size=20)
+2021-03-10 15:27:04,502 - Model - INFO - The number of training data is: 672
+2021-03-10 15:27:04,502 - Model - INFO - The number of test data is: 175
+2021-03-10 15:27:05,457 - Model - INFO - No existing model, starting training from scratch...
+2021-03-10 15:27:05,463 - Model - INFO - Epoch 1 (1/200):
+2021-03-10 15:27:05,463 - Model - INFO - Learning rate:0.001000

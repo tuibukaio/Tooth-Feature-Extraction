@@ -23,7 +23,7 @@ sys.path.append(os.path.join(ROOT_DIR, 'models'))
 def parse_args():
     parser = argparse.ArgumentParser('Model')
     parser.add_argument('--model', type=str, default='TeethModel', help='model name [default: TeethModel]')
-    parser.add_argument('--batch_size', type=int, default=2, help='Batch Size during training [default: 16]')
+    parser.add_argument('--batch_size', type=int, default=8, help='Batch Size during training [default: 16]')
     parser.add_argument('--epoch',  default=200, type=int, help='Epoch to run [default: 200]')
     parser.add_argument('--learning_rate', default=0.001, type=float, help='Initial learning rate [default: 0.001]')
     parser.add_argument('--gpu', type=str, default='0', help='GPU to use [default: GPU 0]')
@@ -158,7 +158,7 @@ def main(args):
             mean_correct.append(loss)
             loss.backward()
             optimizer.step()
-        train_loss = np.mean(mean_correct)
+        train_loss = torch.mean(torch.stack(mean_correct))
         log_string('Train loss is: %.5f' % train_loss)
 
         with torch.no_grad():
@@ -167,18 +167,21 @@ def main(args):
 
             for batch_id, (points, feature) in tqdm(enumerate(testDataLoader), total=len(testDataLoader), smoothing=0.9):
                 cur_batch_size, NUM_POINT, _ = points.size()
-                points, feature = points.float().cuda(), feature.float().cuda()
+
                 points = points.transpose(2, 1)
+
+                points = torch.Tensor(points)
+                points = points.cuda()
+                feature = torch.Tensor(feature)
+                feature = feature.cuda()
+
                 classifier = classifier.eval()
-                feature_pred, _ = classifier(points)
-                cur_pred_val = feature_pred.cpu().data.numpy()
-                cur_pred_val_logits = cur_pred_val
-                cur_pred_val = np.zeros((cur_batch_size, NUM_POINT)).astype(np.int32)
-                feature = feature.cpu().data.numpy()
+                feature_pred = classifier(points)
+
                 loss = torch.nn.functional.l1_loss(feature_pred, feature)
                 loss_list.append(loss)
 
-            mean_loss = np.mean(loss_list)
+            mean_loss = torch.mean(torch.stack(loss_list))
             test_metrics['loss'] = mean_loss
 
         log_string('Epoch %d test loss: %f' % (epoch+1, test_metrics['loss']))
