@@ -167,14 +167,14 @@ def main(args):
 
             for batch_id, (points, feature) in tqdm(enumerate(testDataLoader), total=len(testDataLoader), smoothing=0.9):
                 cur_batch_size, NUM_POINT, _ = points.size()
-
+                points, feature = points.float(), feature.float()
                 points = points.transpose(2, 1)
 
                 points = torch.Tensor(points)
                 points = points.cuda()
                 feature = torch.Tensor(feature)
                 feature = feature.cuda()
-
+                
                 classifier = classifier.eval()
                 feature_pred = classifier(points)
 

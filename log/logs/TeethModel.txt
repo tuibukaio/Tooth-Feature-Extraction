@@ -70,3 +70,31 @@
 2021-03-10 15:27:05,457 - Model - INFO - No existing model, starting training from scratch...
 2021-03-10 15:27:05,463 - Model - INFO - Epoch 1 (1/200):
 2021-03-10 15:27:05,463 - Model - INFO - Learning rate:0.001000
+2021-03-10 15:30:58,365 - Model - INFO - Train loss is: 2.46530
+2021-03-10 15:31:24,235 - Model - INFO - PARAMETER ...
+2021-03-10 15:31:24,235 - Model - INFO - Namespace(batch_size=8, decay_rate=0.0001, epoch=200, gpu='0', learning_rate=0.001, lr_decay=0.5, model='TeethModel', optimizer='Adam', step_size=20)
+2021-03-10 15:31:24,238 - Model - INFO - The number of training data is: 672
+2021-03-10 15:31:24,238 - Model - INFO - The number of test data is: 175
+2021-03-10 15:31:25,287 - Model - INFO - No existing model, starting training from scratch...
+2021-03-10 15:31:25,293 - Model - INFO - Epoch 1 (1/200):
+2021-03-10 15:31:25,294 - Model - INFO - Learning rate:0.001000
+2021-03-10 15:35:27,579 - Model - INFO - Train loss is: 2.77154
+2021-03-10 15:36:21,721 - Model - INFO - Epoch 1 test loss: 2.598136
+2021-03-10 15:36:21,721 - Model - INFO - Epoch 2 (2/200):
+2021-03-10 15:36:21,723 - Model - INFO - Learning rate:0.001000
+2021-03-10 15:40:41,711 - Model - INFO - Train loss is: 1.61548
+2021-03-10 15:41:35,406 - Model - INFO - Epoch 2 test loss: 1.673158
+2021-03-10 15:41:35,413 - Model - INFO - Epoch 3 (3/200):
+2021-03-10 15:41:35,413 - Model - INFO - Learning rate:0.001000
+2021-03-10 15:45:52,610 - Model - INFO - Train loss is: 1.16487
+2021-03-10 15:46:46,817 - Model - INFO - Epoch 3 test loss: 1.420669
+2021-03-10 15:46:46,819 - Model - INFO - Epoch 4 (4/200):
+2021-03-10 15:46:46,819 - Model - INFO - Learning rate:0.001000
+2021-03-10 15:51:47,556 - Model - INFO - Train loss is: 1.04957
+2021-03-10 15:53:00,439 - Model - INFO - Epoch 4 test loss: 1.445565
+2021-03-10 15:53:00,439 - Model - INFO - Epoch 5 (5/200):
+2021-03-10 15:53:00,440 - Model - INFO - Learning rate:0.001000
+2021-03-10 15:58:35,064 - Model - INFO - Train loss is: 0.99088
+2021-03-10 15:59:43,423 - Model - INFO - Epoch 5 test loss: 1.446709
+2021-03-10 15:59:43,423 - Model - INFO - Epoch 6 (6/200):
+2021-03-10 15:59:43,424 - Model - INFO - Learning rate:0.001000
