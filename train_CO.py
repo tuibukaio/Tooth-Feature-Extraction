@@ -124,8 +124,6 @@ def main(args):
 
     best_acc = 0
     global_epoch = 0
-    best_class_avg_iou = 0
-    best_inctance_avg_iou = 0
 
     for epoch in range(start_epoch,args.epoch):
         log_string('Epoch %d (%d/%s):' % (global_epoch + 1, epoch + 1, args.epoch))
